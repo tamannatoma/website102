@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(242, 244, 246);
+
+}
+table{
+    width: 500px;
+    height: 300px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td{ 
+
+   /* text-align: center;*/
+   padding: 20px;
+   color: rgb(8, 3, 5);
+}
+caption{
+    color: rgb(30, 7, 124);
+    font-size: 30px;
+   
+   
+}
+    
